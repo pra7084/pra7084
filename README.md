@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradeep Singh</h1>
-<h3 align="center">A passionate frontend developer from IndiaIndia</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pra7084&label=Profile%20views&color=0e75b6&style=flat" alt="pra7084" /> </p>
 
